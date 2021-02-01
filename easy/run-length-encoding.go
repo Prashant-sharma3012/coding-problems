@@ -2,7 +2,7 @@
 
 // Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
 
-package runlengthencoding
+package easy
 
 import "strconv"
 
